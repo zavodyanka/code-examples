@@ -12,3 +12,7 @@ switch ($type) {
 }
 
 $start_handle = time();
+
+if (count($options)) {
+
+}
